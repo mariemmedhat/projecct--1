@@ -9,7 +9,7 @@ body {
     font-family: "Quicksand", sans-serif;
 }
 .header{
-    background-image: url(home_bg.jbeg);
+    background-image: url(../home_bg.jbeg);
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -161,7 +161,7 @@ nav a:hover{
     background-color: rgb(245, 231, 109) ;
 }
 .offers {
-   background: url("offer-background.jpg") center center/cover fixed;
+   background: url("../offer-background.jpg") center center/cover fixed;
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -315,7 +315,7 @@ h2 {
     background-color:#404052 ;
 }
 .time{
-    background-image: url(daytime_bg.jpeg);
+    background-image: url(../daytime_bg.jpeg);
     display: flex;
     justify-content:space-evenly ;
     align-items: center;
@@ -353,7 +353,7 @@ h2 {
     width: 104px;
 }
 .gallery {
-   background: url("offer-background.jpg") center center/cover;
+   background: url("../offer-background.jpg") center center/cover;
    height: 590px;
    color: #fff;
 }
